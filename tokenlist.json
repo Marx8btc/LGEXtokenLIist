@@ -1,0 +1,32 @@
+{
+    "name": "Compound",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+      "compound",
+      "defi"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 128,
+        "address": "0x7cC0C1a34B1ae55f9bd2A19ece9d4b166B66E70c",
+        "name": "LG",
+        "symbol": "LG",
+        "decimals": 18,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/lg-logo.svg"
+      },
+      {
+        "chainId": 128,
+        "address": "0x158c9af12137cF8dfd86b3bD191DbAB79D41C856",
+        "name": "YHT",
+        "symbol": "YHT",
+        "decimals": 18,
+        "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/YHT.svg"
+      }
+    ],
+    "version": {
+      "major": 2,
+      "minor": 0,
+      "patch": 0
+    }
+  }
