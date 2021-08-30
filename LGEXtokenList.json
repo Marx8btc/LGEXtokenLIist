@@ -1,24 +1,18 @@
 {
   "name": "LGDEX",
-  "version": {
-      "major": 0,
-      "minor": 2,
-      "patch": 0
-  },
-  "keywords": [
-      "gemini",
-      "tokens",
-      "trusted"
-  ],
   "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/lgdex-logo.svg",
-  "timestamp": "2021-07-12T14:15:22+0000",
+  "keywords": [
+      "LG",
+      "LGDEX"
+  ],
+  "timestamp": "2021-08-30T20:37:00.000+00:00",
   "tokens": [
       {
           "name": "LG",
           "chainId": 128,
           "symbol": "LG",
           "decimals": 18,
-          "address": "0x7cc0c1a34b1ae55f9bd2a19ece9d4b166b66e70c",
+          "address": "0x7cC0C1a34B1ae55f9bd2A19ece9d4b166B66E70c",
           "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/lg-logo.svg"
       },
       {
@@ -58,7 +52,7 @@
         "chainId": 128,
         "symbol": "HBTC",
         "decimals": 18,
-        "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+        "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
         "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/HBTC.svg"
     },
     {
@@ -74,7 +68,7 @@
         "chainId": 128,
         "symbol": "LP",
         "decimals": 18,
-        "address": "0x376ce5d7517020cc713bf2de5f4820acb4f2b438",
+        "address": "0x376CE5d7517020Cc713BF2DE5f4820ACb4f2B438",
         "logoURI": "https://gateway.pinata.cloud/ipfs/QmaABjo8kKmPKYNUPY9pibmADbXpJPwr2ZAgEuyW7gQwg6/LGtokenlist/logo/LP.svg"
     },
     {
@@ -85,5 +79,10 @@
         "address": "0x1935F765D492844857aEDa50bc5c27fC56A9858a",
         "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeif5ziqsknpae4mxsxc6t7fbob23nsynpdjv5c5y2q7pyojauotsru"
     }
-  ]
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  }
 }
