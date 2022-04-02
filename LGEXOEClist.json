@@ -1,6 +1,6 @@
 {
     "name": "LGEX",
-    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
+    "logoURI": "https://lg-qkl.github.io/lgextokenIist/logo/lgdex-logo.svg",
     "keywords": [
       "lgqklxyz",
       "lgqklex",
@@ -14,7 +14,7 @@
         "name": "LG",
         "symbol": "LG",
         "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/logo/LG.svg"
+        "logoURI": "https://lg-qkl.github.io/lgextokenIist/logo/LG.svg"
       },
       {
         "chainId": 66,
@@ -22,7 +22,7 @@
         "name": "ETHK",
         "symbol": "ETHK",
         "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/logo/ETH.svg"
+        "logoURI": "https://lg-qkl.github.io/lgextokenIist/logo/ETH.svg"
       },
       {
         "chainId": 66,
@@ -30,7 +30,7 @@
         "name": "BTCK",
         "symbol": "BTCK",
         "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/logo/HBTC.svg"
+        "logoURI": "https://lg-qkl.github.io/lgextokenIist/HBTC.svg"
       },
       {
         "chainId": 66,
@@ -38,12 +38,12 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 18,
-        "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
+        "logoURI": "https://lg-qkl.github.io/lgextokenIist/USDT.svg"
       }
     ],
     "version": {
       "major": 0,
       "minor": 1,
-      "patch": 0
+      "patch": 1
     }
   }
