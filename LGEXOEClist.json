@@ -1,0 +1,49 @@
+{
+    "name": "LGEX",
+    "logoURI": "https://liange666.github.io/tokenlist/logo/lgdex-logo.svg",
+    "keywords": [
+      "lgqklxyz",
+      "lgqklex",
+      "trusted"
+    ],
+    "timestamp": "2021-05-27T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 66,
+        "address": "0x97954F69A4006Dc39dCa8e11520Cb01E287B748b",
+        "name": "LG",
+        "symbol": "LG",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/LG.svg"
+      },
+      {
+        "chainId": 66,
+        "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
+        "name": "ETHK",
+        "symbol": "ETHK",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/ETH.svg"
+      },
+      {
+        "chainId": 66,
+        "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
+        "name": "BTCK",
+        "symbol": "BTCK",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/HBTC.svg"
+      },
+      {
+        "chainId": 66,
+        "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+        "name": "USDT",
+        "symbol": "USDT",
+        "decimals": 18,
+        "logoURI": "https://liange666.github.io/tokenlist/logo/USDT.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
+  }
